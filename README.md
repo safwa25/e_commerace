@@ -26,4 +26,8 @@ This Flutter project is a mobile application that allows users to explore featur
    git clone https://github.com/yourusername/featured-products-flutter.git
    cd featured-products-flutter
 
+![Login Screen](assets/images/Login.png)
+![Sign Up Screen](assets/images/SignUp.png)
 ![Home Screen](assets/images/Home.png)
+![Welcome Screen](assets/images/Welcome Page.png)
+
