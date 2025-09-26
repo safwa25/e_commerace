@@ -1,7 +1,5 @@
 # e_commerace
 
-A new Flutter project.
-
 # Featured Products Flutter App
 
 ## Project Overview
