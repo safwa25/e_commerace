@@ -29,5 +29,5 @@ This Flutter project is a mobile application that allows users to explore featur
 ![Login Screen](assets/images/Login.png)
 ![Sign Up Screen](assets/images/SignUp.png)
 ![Home Screen](assets/images/Home.png)
-![Welcome Screen](assets/images/Welcome Page.png)
+![Welcome Screen](assets/images/WelcomePage.png)
 
