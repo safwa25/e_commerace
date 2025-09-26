@@ -1,7 +1,5 @@
 # e_commerace
 
-# Featured Products Flutter App
-
 ## Project Overview
 This Flutter project is a mobile application that allows users to explore featured products in a clean and interactive interface. The design is simple, user-friendly, and optimized for both Android and iOS.
 
