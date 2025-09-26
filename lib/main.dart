@@ -1,3 +1,4 @@
+import 'package:e_commerace/home.dart';
 import 'package:e_commerace/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
