@@ -2,15 +2,27 @@
 
 A new Flutter project.
 
-## Getting Started
+# Featured Products Flutter App
 
-This project is a starting point for a Flutter application.
+## Project Overview
+This Flutter project is a mobile application that allows users to explore featured products in a clean and interactive interface. The design is simple, user-friendly, and optimized for both Android and iOS.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+### User Features
+- Browse featured products through a horizontal swipe using `PageView`.
+- View product details such as image, title, and price in a modern card layout.
+- Smooth scrolling experience between products.
+- Responsive design that works on different screen sizes.
+- Lightweight and fast performance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Developer Features
+- Easy to customize product data and UI components.
+- Built with Flutter’s `PageView` for seamless swiping.
+- Modular code structure for quick enhancements.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/featured-products-flutter.git
+   cd featured-products-flutter
+
